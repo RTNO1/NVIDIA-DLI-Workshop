@@ -1,11 +1,11 @@
-## Fundamentals of Deep Learning Worskhop (NVIDIA Deep Learning Institute（DLI）Certified Course) 
+## Fundamentals of Deep Learning Worskhop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
 ### Date and Time: 
 We plan to run the workshop at the end of the autumn semester of the 2022 academic year.
 ### Place: 
-Zoom (to be announced to registered attendees)
+Zoom (to be announced to registered participants)
 ### Content: 
-<a href="https://www.nvidia.com/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page; </a>
-### Expected Number of Attendees: 
+<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page; Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate.</a>
+### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 Third-year undergraduate students and above or graduate students who have <ins>an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line</ins> AND <ins>are able to participate in the entire workshop</ins>
