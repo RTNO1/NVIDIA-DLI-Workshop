@@ -1,10 +1,10 @@
-## NVIDIA Deep Learning Institute（DLI）認定コース ディープラーニングの基礎のワークショップ
+## NVIDIA Deep Learning Institute（DLI）認定コース「ディープラーニングの基礎」のワークショップ
 ### 日時：
 2022年9月24日（土）9:00-18:00
 ### 会場：
 Zoom (受講登録者に案内する予定)
 ### 内容：
-<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じる</a>
+<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じており，最終課題に合格した場合はNVIDIA DLI 証明書が参加者に贈られる．</a>
 ### 受講者規模：
 40 名程度（以下の受講資格を有する学生で先着順）
 ### 受講資格：
