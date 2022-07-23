@@ -1,10 +1,10 @@
-## NVIDIA Deep Learning Institute（DLI）Certified Course -- Fundamentals of Deep Learning
+## Fundamentals of Deep Learning Worskhop (NVIDIA Deep Learning Institute（DLI）Certified Course) 
 ### Date and Time: 
 We plan to run the workshop at the end of the autumn semester of the 2022 academic year.
 ### Place: 
 Zoom (to be announced to registered attendees)
 ### Content: 
-<a href="https://www.nvidia.com/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">Following the content of this NVIDIA page</a>
+<a href="https://www.nvidia.com/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page; </a>
 ### Expected Number of Attendees: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
