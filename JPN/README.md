@@ -4,7 +4,7 @@
 ### 会場：
 Zoom (受講登録者に案内する予定)
 ### 内容：
-<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じる</a>（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">例</a>＞が受講者に贈られる）</a>
+<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じる</a>（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">例</a>＞が受講者に贈られる）</a>
 ### 受講者規模：
 40 名程度（以下の受講資格を有する学生で先着順）
 ### 受講資格：
