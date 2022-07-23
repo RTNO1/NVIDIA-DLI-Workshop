@@ -1,4 +1,4 @@
-## NVIDIA Deep Learning Institute（DLI）Certified Course -- Fundamentals of Deep Learning @ Zoom
+## NVIDIA Deep Learning Institute（DLI）Certified Course -- Fundamentals of Deep Learning
 ### Date and Time: 
 We plan to run the workshop at the end of the autumn semester of the 2022 academic year.
 ### Place: 
