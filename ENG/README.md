@@ -9,7 +9,7 @@ Zoom (to be announced to registered attendees)
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 Third-year undergraduate students and above or graduate students who have <ins>an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line</ins> AND <ins>are able to participate in the entire workshop</ins>
-### Free Registration (in preparation): 
+### Free Registration (Under preparation): 
 <a href="" target="_blank">(RU students only)</a> 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
