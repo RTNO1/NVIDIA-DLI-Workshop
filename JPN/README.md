@@ -11,7 +11,7 @@
  * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">長谷川 稜介 (ES)</a>
  * <a href="" target="_blank">ZHAO Shuang (ES)</a>
 ### 協賛：
- ![](../ise.png)![](../dli.png)
+<img src="../ise.gif" height="150" longdesc="http://www.ritsumei.ac.jp/ise/"><img src="../dli.png" height="150">
  
 
 
