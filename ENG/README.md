@@ -1,6 +1,6 @@
 ## Fundamentals of Deep Learning Worskhop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
 ### Date and Time: 
-We plan to run the workshop at the end of the autumn semester of the 2022 academic year.
+We plan to run the workshop in English at the end of the autumn semester of the 2022 academic year.
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
