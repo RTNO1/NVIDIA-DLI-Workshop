@@ -1,11 +1,11 @@
-## NVIDIA Deep Learning Institute（DLI）認定コース ディープラーニングの基礎 @ Zoom
-### 日時：2022年9月24日（土）9:00-18:00
-### 内容：<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じる</a>
-### 受講者規模：40 名程度（以下の受講資格を有する学生で先着順）
-### 受講資格：「関数，ループ，辞書，配列など，Python の基礎的なプログラミング概念を理解している」学部３回生以上か大学院生，かつワークショップの全行程に参加できること．
-### 受講登録（準備中）<a href="" target="_blank">（学内の方のみ：80名先着順）</a> 
-### 講師：<a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">情報理工学部 ターウォンマット　ラック</a> 
-### TA予定者：
+## NVIDIA Deep Learning Institute（DLI）Certified Course -- Fundamentals of Deep Learning @ Zoom
+### Date and Time：Planned to run the workshop in the end of the autumn semester
+### Content：<a href="https://www.nvidia.com/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">Following the content of this NVIDIA page</a>
+### Expected number of attendees: 40 (first-come-first-served basis among students with the following qualifications)
+### Prerequisites: "An understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line" AND "Being able to participate in the entire workshop"
+### Registration (in preparation): <a href="" target="_blank">(RU students only: 80 attendees on a first-come, first-served basis)</a> 
+### Instructor：<a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas, College of Information Science and Engineering</a> 
+### Prospective TAs：
  * <a href="" target="_blank">a</a>
  * <a href="" target="_blank">b</a>
  * <a href="" target="_blank">c</a>
@@ -13,8 +13,4 @@
 
 ------------------------------------------------------------------------
 
-# NVIDIA Deep Learning Institute（DLI）Certified Course -- Fundamentals of Deep Learning @ Zoom
-## Planned to run the workshop in the end of the fall semester.
-# Certified Instructor:<a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas, College of Information Scinece and Engineering</a> <br>
-#  
 
