@@ -1,4 +1,4 @@
-## NVIDIA Deep Learning Institute（DLI）認定コース ディープラーニングの基礎 @ Zoom
+## NVIDIA Deep Learning Institute（DLI）認定コース ディープラーニングの基礎
 ### 日時：
 2022年9月24日（土）9:00-18:00
 ### 会場：
