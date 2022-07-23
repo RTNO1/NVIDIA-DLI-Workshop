@@ -3,7 +3,7 @@
 ### Content: <a href="https://www.nvidia.com/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">Following the content of this NVIDIA page</a>
 ### Expected number of attendees: 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: Third-year undergraduate students and above or graduate students who have <ins>an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line</ins> AND <ins>are "able to participate in the entire workshop</ins>
-### Free Registration (in preparation): <a href="" target="_blank">(RU students only and first-come-first-served basis)</a> 
+### Free Registration (in preparation): <a href="" target="_blank">(RU students only)</a> 
 ### Instructor: <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas, College of Information Science and Engineering</a> 
 ### Prospective TAs:
  * <a href="" target="_blank">a</a>
