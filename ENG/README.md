@@ -4,11 +4,16 @@ We plan to run the workshop at the end of the autumn semester of the 2022 academ
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
-<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate.)</a>
+<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page</a> (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">this</a>.)
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
-Third-year undergraduate students and above or graduate students who have <ins>an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line</ins> AND <ins>are able to participate in the entire workshop</ins>
+Third-year undergraduate students and above or graduate students who:
+1. have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line
+2. possess hardware satisfying the requirements below
+3. are able to participate in the entire workshop
+### Hardware Requirements: 
+Desktop or laptop computer capable of running the latest version of Chrome or Firefox and a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA, in the cloud.
 ### Free Registration (Under preparation): 
 <a href="" target="_blank">(RU students only)</a> 
 ### Instructor: 
