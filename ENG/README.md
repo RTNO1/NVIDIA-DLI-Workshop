@@ -4,7 +4,7 @@ We plan to run the workshop at the end of the autumn semester of the 2022 academ
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
-<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page; Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate.</a>
+<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA page (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate.)</a>
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
