@@ -4,7 +4,7 @@
 ### 受講者規模：40 名程度（以下の受講資格を有する学生で先着順）
 ### 受講資格：「関数，ループ，辞書，配列など，Python の基礎的なプログラミング概念, 及び回帰直線を計算する方法を理解している」学部３回生以上か大学院生，かつ「ワークショップの全行程に参加できること」
 ### 無料受講登録（準備中）：<a href="" target="_blank">（学内の方のみ）</a> 
-### 講師：<a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">情報理工学部 ターウォンマット ラック</a> <a href="https://courses.nvidia.com/certificates/1ee852e7075945b2bd65439799336b8e/"><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"></a>
+### 講師：<a href="http://www.ritsumei.ac.jp/ise/" target="_blank">情報理工学部</a> <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">ターウォンマット ラック</a> <a href="https://courses.nvidia.com/certificates/1ee852e7075945b2bd65439799336b8e/"><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"></a>
 ### TA・ES予定者：
  * <a href="https://learn.next.courses.nvidia.com/certificates/8b6163a105a64f878368380ed20e4958" target="_blank">田邉 准 (TA)</a>
  * <a href="" target="_blank">YU Lian (TA)</a>
@@ -13,11 +13,5 @@
 ### 協賛：
 <a href="http://www.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
 <a href="https://www.nvidia.com/ja-jp/training/"><img alt="Qries" src="../dli.png" height="150"></a>
-
- 
-
-
-
-
-
+### [問い合わせ](mailto:dli-ws@ice.ci.ritsumei.ac.jp)
 ------------------------------------------------------------------------
