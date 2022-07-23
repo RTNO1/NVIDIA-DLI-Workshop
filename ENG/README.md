@@ -9,8 +9,9 @@
  * <a href="" target="_blank">a</a>
  * <a href="" target="_blank">b</a>
  * <a href="" target="_blank">c</a>
-
-
+### Sponsors：
+<a href="http://en.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
+<a href="https://www.nvidia.com/en-es/training/"><img alt="Qries" src="../dli.png" height="150"></a>
 ------------------------------------------------------------------------
 
 
