@@ -17,7 +17,7 @@ Zoom (受講登録者に案内する予定)
  * <a href="https://learn.next.courses.nvidia.com/certificates/8b6163a105a64f878368380ed20e4958" target="_blank">田邉 准 (TA)</a>
  * <a href="" target="_blank">YU Lian (TA)</a>
  * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">長谷川 稜介 (ES)</a>
- * <a href="" target="_blank">ZHAO Shuang (ES)</a>
+ * <a href="https://learn.next.courses.nvidia.com/certificates/bc270da22c264a47897797b7ed24d6ad" target="_blank">ZHAO Shuang (ES)</a>
 ### 協賛：
 <a href="http://www.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
 <a href="https://www.nvidia.com/ja-jp/training/"><img alt="Qries" src="../dli.png" height="150"></a>
