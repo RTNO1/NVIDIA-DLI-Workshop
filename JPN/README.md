@@ -4,7 +4,7 @@
 ### 会場：
 Zoom (受講登録者に案内する予定)
 ### 内容：
-<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">このNVIDIAページ記載内容に準じる</a>（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">例</a>＞が受講者に贈られる）</a>
+この<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLIページ</a>の記載内容に準じる（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">例</a>＞が受講者に贈られる）</a>
 ### 受講者規模：
 40 名程度（以下の受講資格を有する学生で先着順）
 ### 受講資格：
@@ -14,7 +14,7 @@ Zoom (受講登録者に案内する予定)
 <ins>学部３回生以上か大学院生</ins>
 
 ### ハードウェア要件: 
-クラウドに置かれている，NVIDIAにより提供されるGPU対応サーバーに安定してアクセスできるネットワーク環境，および最新版の Chrome または Firefox を実行できるデスクトップコンピューターまたはノートPC
+クラウドに置かれている，NVIDIA DLIにより提供されるGPU対応サーバーに安定してアクセスできるネットワーク環境，および最新版の Chrome または Firefox を実行できるデスクトップコンピューターまたはノートPC
 ### 無料受講登録：
 <a href="https://forms.office.com/r/1unMcUm11T" target="_blank">このMicrosoft Formsにて登録してください．（学内の方のみ）</a> 
 ### 講師：
