@@ -22,11 +22,11 @@ Zoom (受講登録者に案内する予定)
 ### TA・ES予定者：
  * <a href="https://learn.next.courses.nvidia.com/certificates/8b6163a105a64f878368380ed20e4958" target="_blank">田邉 准 (TA)</a>
  * <a href="https://learn.next.courses.nvidia.com/certificates/dc3f95e20b25463ba8bc0b25b8bf5943" target="_blank">JIA Hao (TA)</a>
- * <a href="" target="_blank">YU Lian (TA)</a>
+ * <a href="https://courses.nvidia.com/certificates/fa0cdae5a5644a95a9816517e65c0195/" target="_blank">YU Lian (TA)</a>
  * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">長谷川 稜介 (ES)</a>
  * <a href="https://learn.next.courses.nvidia.com/certificates/bc270da22c264a47897797b7ed24d6ad" target="_blank">ZHAO Shuang (ES)</a>
 ### 協賛：
-<a href="http://www.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
 <a href="https://www.nvidia.com/ja-jp/training/"><img alt="Qries" src="../dli.png" height="150"></a>
+<a href="http://www.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
 ### [問い合わせ](mailto:dli-ws@ice.ci.ritsumei.ac.jp)
 ------------------------------------------------------------------------
