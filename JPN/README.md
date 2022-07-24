@@ -6,8 +6,8 @@ Zoom (受講登録者に案内する予定)
 ### 内容：
 この<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLIページ</a>の記載内容に準じる（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">例</a>＞が受講者に贈られる）</a>
 ### 受講者規模：
-40 名程度（以下の受講資格を有する学生で先着順）
-### 受講資格：
+40 名程度（以下の前提条件を満たす学生で先着順）
+### 前提条件：
 1. 「関数，ループ，辞書，配列などのPython の基礎的なプログラミング概念, Pandasのデータ構造への理解，及び回帰直線を計算する方法」を理解する
 2. 以下に示す要件を満すハードウェアを持つ
 3. ワークショップの全行程に参加できる</br> 
@@ -16,7 +16,7 @@ Zoom (受講登録者に案内する予定)
 ### ハードウェア要件: 
 クラウドに置かれている，NVIDIA DLIにより提供されるGPU対応サーバーに安定してアクセスできるネットワーク環境，および最新版の Chrome または Firefox を実行できるデスクトップコンピューターまたはノートPC
 ### 無料受講登録：
-<a href="https://forms.office.com/r/1unMcUm11T" target="_blank">このMicrosoft Formsにて登録してください．（学内の方のみ）</a> 
+このMicrosoft Formsの<a href="https://forms.office.com/r/1unMcUm11T" target="_blank">ページ</a>にて登録してください．（学内の方のみ）
 ### 講師：
 <a href="http://www.ritsumei.ac.jp/ise/" target="_blank">情報理工学部</a> <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">ターウォンマット ラック</a> <a href="https://courses.nvidia.com/certificates/1ee852e7075945b2bd65439799336b8e/"><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"></a>
 ### TA・ES予定者：
