@@ -10,10 +10,10 @@ See the content of this <a href="https://www.nvidia.com/en-us/training/instructo
 ### Prerequisites: 
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
 1. have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line
-2. possess hardware satisfying the requirements below
+2. possess a network environment and hardware satisfying the requirements below
 3. are able to participate in the entire workshop
-### Hardware Requirements: 
-Desktop or laptop computer capable of running the latest version of Chrome or Firefox and a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
+### Network Environment and Hardware Requirements: 
+Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
 ### Free Registration (under preparation): 
 <a href="" target="_blank">(RU students only)</a> 
 ### Instructor: 
