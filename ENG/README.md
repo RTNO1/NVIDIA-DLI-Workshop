@@ -4,7 +4,7 @@ We plan to run the workshop in English at the end of the autumn semester of the 
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
-<a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">See the content of this NVIDIA DLI page</a> (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">this</a>.)
+See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLI page</a> (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">this</a>.)
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
@@ -14,7 +14,7 @@ Zoom (to be announced to registered participants)
 3. are able to participate in the entire workshop
 ### Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox and a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
-### Free Registration (Under preparation): 
+### Free Registration (under preparation): 
 <a href="" target="_blank">(RU students only)</a> 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
