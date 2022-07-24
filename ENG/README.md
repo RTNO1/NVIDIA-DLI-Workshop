@@ -23,7 +23,7 @@ Desktop or laptop computer capable of running the latest version of Chrome or Fi
  * <a href="https://learn.next.courses.nvidia.com/certificates/9ad2afd826a345c189dde58002e448d8" target="_blank">Febri Abdullah</a>
  * <a href="https://courses.nvidia.com/certificates/a9a74b24e5c14a50a147ad43e6367e3c/" target="_blank">Ibrahim Khan</a>
  * <a href="https://courses.nvidia.com/certificates/d375942c39f34c1eae3856bdc542ffc1/" target="_blank">Roman Savchyn</a>
- * <a href="" target="_blank">Yushi Liu</a>
+ * <a href="https://courses.nvidia.com/certificates/86b2b72915684ed9b3f5cb32b8949871/" target="_blank">Yushi Liu</a>
 ### Sponsors：
 <a href="http://en.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
 <a href="https://www.nvidia.com/en-us/training/"><img alt="Qries" src="../dli.png" height="150"></a>
