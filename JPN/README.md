@@ -2,7 +2,7 @@
 ### 日時：
 2022年9月24日（土）9:00-18:00
 ### 会場：
-Zoom (受講登録者に案内する予定)
+Zoom (受講者に案内する予定)
 ### 内容：
 この<a href="https://www.nvidia.com/ja-jp/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLIページ</a>の記載内容に準じる（最終課題に合格した場合はNVIDIA DLI 修了証明書＜<a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">例</a>＞が受講者に贈られる）</a>
 ### 受講者規模：
