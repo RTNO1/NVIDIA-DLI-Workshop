@@ -16,7 +16,7 @@ Zoom (受講者に案内する予定)
 ### ネットワーク環境及びハードウェア要件: 
 クラウドに置かれている，NVIDIA DLIにより提供されるGPU対応サーバーに安定してアクセスできるネットワーク環境，および最新版の Chrome または Firefox を実行できるデスクトップコンピューターまたはノートPC
 ### 無料受講登録（受付中）：
-このMicrosoft Formsの<a href="https://forms.office.com/r/1unMcUm11T" target="_blank">ページ</a>にて登録してください．（学内の方のみ）
+このMicrosoft Formsの<a href="https://forms.office.com/r/1unMcUm11T" target="_blank">ページ</a>にて登録してください．（学内の方のみ, **9月23日午前09:00締切**）
 ### 講師：
 <a href="http://www.ritsumei.ac.jp/ise/" target="_blank">情報理工学部</a> <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">ターウォンマット ラック</a> <a href="https://courses.nvidia.com/certificates/1ee852e7075945b2bd65439799336b8e/"><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"></a>
 ### TA・ES予定者：
