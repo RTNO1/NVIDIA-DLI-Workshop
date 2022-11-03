@@ -9,8 +9,8 @@ See the content of this <a href="https://www.nvidia.com/en-us/training/instructo
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
-1. **Required:** have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; **Recommended:** familiarity with Pandas data structures and an understanding of how to compute a regression line
-2. **Required:** possess a network environment and hardware satisfying the requirements below
+1. **Required:** have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays
+2. **Recommended:** have familiarity with Pandas data structures and an understanding of how to compute a regression line
 3. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
