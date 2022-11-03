@@ -1,6 +1,6 @@
 ## Fundamentals of Deep Learning Worskhop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
 ### Date and Time: 
-We plan to run the workshop in English at the end of the autumn semester of the 2022 academic year.
+13:00-22:00 December 10, 2022 (JST)
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
@@ -9,13 +9,13 @@ See the content of this <a href="https://www.nvidia.com/en-us/training/instructo
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
-1. have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; familiarity with Pandas data structures; and an understanding of how to compute a regression line
-2. possess a network environment and hardware satisfying the requirements below
-3. are able to participate in the entire workshop
+1. **Required:** have an understanding of fundamental programming concepts in Python 3, such as functions, loops, dictionaries, and arrays; **Recommended:** familiarity with Pandas data structures and an understanding of how to compute a regression line
+2. **Required:** possess a network environment and hardware satisfying the requirements below
+3. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
 ### Free Registration (under preparation): 
-<a href="" target="_blank">(RU students only)</a> 
+Please register on this Microsoft Forms <a href="" target="_blank">page</a>. (RU students only) 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
 ### Prospective TAs:
