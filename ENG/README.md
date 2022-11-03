@@ -1,4 +1,4 @@
-## Fundamentals of Deep Learning Worskhop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
+## Fundamentals of Deep Learning Workshop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
 ### Date and Time: 
 13:00-22:00 December 10, 2022 (JST)
 ### Place: 
