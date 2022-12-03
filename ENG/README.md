@@ -14,7 +14,7 @@ See the content of this <a href="https://www.nvidia.com/en-us/training/instructo
 3. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
-### Free Registration (open until 09:00 AM December 10 (JST), 2022): 
+### Free Registration (open until 09:00 AM December 3 (JST), 2022): 
 Please register on this Microsoft Forms <a href="https://forms.office.com/r/yP8z2g3QDm" target="_blank">page</a>. (RU students only) 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
