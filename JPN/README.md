@@ -19,7 +19,7 @@ Zoom (受講者に案内する予定)
 このMicrosoft Formsの<a href="https://forms.office.com/r/1unMcUm11T" target="_blank">ページ</a>にて登録してください．（学内の方のみ, **9月23日午前09:00締切**）
 ### 講師：
 <a href="http://www.ritsumei.ac.jp/ise/" target="_blank">情報理工学部</a> <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">ターウォンマット ラック</a> <a href="https://courses.nvidia.com/certificates/1ee852e7075945b2bd65439799336b8e/"><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"></a>
-### 担当TA・ES：
+### 担当予定TA・ES：
  * <a href="https://learn.next.courses.nvidia.com/certificates/8b6163a105a64f878368380ed20e4958" target="_blank">田邉 准 (TA)</a>
  * <a href="https://learn.next.courses.nvidia.com/certificates/dc3f95e20b25463ba8bc0b25b8bf5943" target="_blank">JIA Hao (TA)</a>
  * <a href="https://courses.nvidia.com/certificates/fa0cdae5a5644a95a9816517e65c0195/" target="_blank">YU Lian (TA)</a>
