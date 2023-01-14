@@ -26,7 +26,7 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/yP8z
  * <a href="https://courses.nvidia.com/certificates/86b2b72915684ed9b3f5cb32b8949871/" target="_blank">Yushi Liu</a>
 ### Event Report:
 #### * 13:00-22:00 December 10, 2022 (JST)
-##### Number of participants who obtained a certificate of completion：29
+##### Number of participants who obtained a certificate of completion：30
 ##### TAs:
  * <a href="https://courses.nvidia.com/certificates/0e3d9ba247494a8daf6b1819c72cddc0/" target="_blank">Fajar Dewantoro Mury</a>
  * <a href="https://learn.next.courses.nvidia.com/certificates/9ad2afd826a345c189dde58002e448d8" target="_blank">Febri Abdullah</a>
