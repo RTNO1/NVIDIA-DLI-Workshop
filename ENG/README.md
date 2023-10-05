@@ -5,6 +5,8 @@
 Zoom (to be announced to registered participants)
 ### Content: 
 See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLI page</a> (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">this</a>.)
+
+Lectures and labs will be in English. For Japanese-speaking participants, slides in Japanese will also be provided together with support by Japanese-speaking TAs. In addition to English, some of our TAs speak Thai or Chinese.
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
