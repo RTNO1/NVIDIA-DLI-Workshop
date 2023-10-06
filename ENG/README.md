@@ -17,14 +17,14 @@ Lectures and labs will be in English. For Japanese-speaking participants, slides
 ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
 ### Free Registration (open until 09:00 AM October 26 (JST), 2023): 
-Please register on this Microsoft Forms <a href="https://forms.office.com/r/yP8z2g3QDm" target="_blank">page</a>. 
+Please register on this Microsoft Forms <a href="https://forms.office.com/r/wvU6g4DtmD" target="_blank">page</a>. 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
 ### TAs:
- * <a href="https://courses.nvidia.com/certificates/0e3d9ba247494a8daf6b1819c72cddc0/" target="_blank">Chollakorn Nimpattanavong</a>
- * <a href="https://learn.next.courses.nvidia.com/certificates/9ad2afd826a345c189dde58002e448d8" target="_blank">Pittawat Taveekitworachai</a>
+ * <a href="https://courses.nvidia.com/certificates/fd117d9bd0ad463fa593d2baafeb08ad/" target="_blank">Chollakorn Nimpattanavong</a>
+ * <a href="https://courses.nvidia.com/certificates/f01681fd8fda4cb5aa9c5261f39c0744/" target="_blank">Pittawat Taveekitworachai</a>
  * <a href="https://courses.nvidia.com/certificates/a9a74b24e5c14a50a147ad43e6367e3c/" target="_blank">Xiao You</a>
- * <a href="https://courses.nvidia.com/certificates/86b2b72915684ed9b3f5cb32b8949871/" target="_blank">Ryosuke Hasegawa</a>
+ * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">Ryosuke Hasegawa</a>
 ### Past Event Reports:
 #### * 13:00-22:00 December 10, 2022 (JST)
 ##### Number of participants who obtained a certificate of completion：30 (updated on Jan 15, 2023)
