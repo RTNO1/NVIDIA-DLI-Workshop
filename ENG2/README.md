@@ -20,7 +20,7 @@ or
 or
  * <a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">ディープラーニングの基礎</a>
  
-If you don't have any, please consider taking <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank">this paid course</a> before applying to this workshop or wait and first take this free <a href="https://tinyurl.com/ru-dli-ws-e" target="_blank">Fundamentals of Deep Learning Workshop</a> in 2024 if your status is still "student."
+If you don't have any, before applying to this workshop, please wait and first take this free <a href="https://tinyurl.com/ru-dli-ws-e" target="_blank">Fundamentals of Deep Learning Workshop</a> in 2024 if your status is still "student", or consider taking <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank">this paid course</a>.
 
 2. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
