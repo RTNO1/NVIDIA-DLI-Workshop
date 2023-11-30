@@ -4,14 +4,14 @@
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
-See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/natural-language-processing/" target="_blank">NVIDIA DLI page</a> (Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://courses.nvidia.com/certificates/858ef7960bb3470ab45222ad3416de4f/" target="_blank">this</a>.)
+See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/natural-language-processing/" target="_blank">NVIDIA DLI page</a>.  Note that our workshop is free of charge. Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://courses.nvidia.com/certificates/858ef7960bb3470ab45222ad3416de4f/" target="_blank">this</a>.
 
 Lectures and labs will be in English. 
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
-1. **Required:** has at least one of the following certificates issued by NVIDIA DLI:
+1. **Required:** have at least one of the following certificates issued by NVIDIA DLI:
  * <a href="https://courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83/" target="_blank">Fundamentals of Deep Learning</a>
 
 or
@@ -20,7 +20,7 @@ or
 or
  * <a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">ディープラーニングの基礎</a>
  
-If you don't have any, please take <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank">this course</a> before applying to this workshop or wait and first take this <a href="https://tinyurl.com/ru-dli-ws-e" target="_blank">Fundamentals of Deep Learning Workshop</a> in 2024.
+If you don't have any, please consider taking <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank">this paid course</a> before applying to this workshop or wait and first take this free <a href="https://tinyurl.com/ru-dli-ws-e" target="_blank">Fundamentals of Deep Learning Workshop</a> in 2024 if your status is still "student."
 
 2. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
