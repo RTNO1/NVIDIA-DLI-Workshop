@@ -11,19 +11,16 @@ Lectures and labs will be in English.
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
-1. **Required:** have at least one of the following certificates issued by NVIDIA DLI:
+1. Have experience with Python coding and use of library functions and parameters 
+2. Have fundamental understanding of a deep learning framework such as TensorFlow, PyTorch, or Keras
+3. Have Basic understanding of neural networks
+4. Are able to participate in the entire workshop
+
+Note that workshop applicants who have at least one of the following certificates issued by NVIDIA DLI will be prioritized in selecting the workshop participants.
  * <a href="https://courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83/" target="_blank">Fundamentals of Deep Learning</a>
-
-or
  * <a href="https://learn.next.courses.nvidia.com/certificates/c7d7ecf8f3ff4ba98804716e7832451a" target="_blank">Getting Started with Deep Learning</a>
-
-or
  * <a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">ディープラーニングの基礎</a>
- 
-If you don't have any, before applying to this workshop, please wait and first take this free <a href="https://tinyurl.com/ru-dli-ws-e" target="_blank">Fundamentals of Deep Learning Workshop</a> in 2024 if your status is still "student", or consider taking <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-01+V1/" target="_blank">this paid course</a>.
-
-2. **Required:** are able to participate in the entire workshop
-### Network Environment and Hardware Requirements: 
+ ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
 ### Free Registration (open until 09:00 AM Dec 30 (JST), 2023): 
 Please register on this Microsoft Forms <a href="https://forms.office.com/r/LWve6neANk" target="_blank">page</a>. 
