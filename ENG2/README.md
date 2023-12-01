@@ -2,7 +2,7 @@
 ### Date and Time: 
 09:00-18:00 January 6, 2024 (JST)
 ### Place: 
-Zoom (to be announced to registered participants)
+Zoom (to be announced to accepted participants)
 ### Content: 
 See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/natural-language-processing/" target="_blank">NVIDIA DLI page</a>.  Note that our workshop is free of charge. Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://courses.nvidia.com/certificates/858ef7960bb3470ab45222ad3416de4f/" target="_blank">this</a>.
 
