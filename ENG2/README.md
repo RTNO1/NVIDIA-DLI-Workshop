@@ -22,7 +22,7 @@ Note that workshop applicants who have at least one of the following certificate
  * <a href="https://courses.nvidia.com/certificates/f2e3db9809994eeba65049cbca8bb508/" target="_blank">ディープラーニングの基礎</a>
  ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
-### Free Registration (open until 09:00 AM Dec 30 (JST), 2023): 
+### Free Registration (open from 09:00 AM Dec 4 (JST) until 09:00 AM Dec 30 (JST), 2023): 
 Please register on this Microsoft Forms <a href="https://forms.office.com/r/LWve6neANk" target="_blank">page</a>. 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
