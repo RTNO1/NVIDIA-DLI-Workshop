@@ -27,10 +27,10 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/LWve
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
 ### TAs:
- * <a href="" target="_blank">Chollakorn Nimpattanavong</a>
- * <a href="" target="_blank">Ibrahim Khan</a>
- * <a href="" target="_blank">Pittawat Taveekitworachai</a>
- * <a href="" target="_blank">Van Thai Nguyen</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=BTId__wAAAAJ" target="_blank">Chollakorn Nimpattanavong</a>
+ * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=2CFoP9cAAAAJ" target="_blank">Pittawat Taveekitworachai</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
 ### Sponsors：
 <a href="https://www.nvidia.com/en-us/training/"><img alt="Qries" src="../dli.png" height="150"></a>
 <a href="http://en.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
