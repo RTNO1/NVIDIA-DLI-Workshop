@@ -13,7 +13,7 @@ Lectures and labs will be in English.
 <ins>Third-year undergraduate students and above or graduate students</ins> who:
 1. Have experience with Python coding and use of library functions and parameters 
 2. Have fundamental understanding of a deep learning framework such as TensorFlow, PyTorch, or Keras
-3. Have Basic understanding of neural networks
+3. Have basic understanding of neural networks
 4. Are able to participate in the entire workshop
 
 Note that workshop applicants who have at least one of the following certificates issued by NVIDIA DLI will be prioritized in selecting the workshop participants.
