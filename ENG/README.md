@@ -27,7 +27,7 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/wvU6
  * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">Ryosuke Hasegawa</a>
 ### Past Event Reports:
 #### * 09:00-18:00 October 28, 2023 (JST)
-##### Number of participants who obtained a certificate of completion：55
+##### Number of participants who obtained a certificate of completion：54
 ##### TAs:
  * <a href="https://courses.nvidia.com/certificates/fd117d9bd0ad463fa593d2baafeb08ad/" target="_blank">Chollakorn Nimpattanavong</a>
  * <a href="https://courses.nvidia.com/certificates/f01681fd8fda4cb5aa9c5261f39c0744/" target="_blank">Pittawat Taveekitworachai</a>
