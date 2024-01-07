@@ -31,6 +31,14 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/LWve
  * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
  * <a href="https://scholar.google.co.jp/citations?hl=en&user=2CFoP9cAAAAJ" target="_blank">Pittawat Taveekitworachai</a>
  * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
+### Past Event Reports:
+#### * 09:00-18:00 January 6, 2024 (JST)
+##### Number of participants who obtained a certificate of completion：24
+##### TAs:
+* <a href="https://scholar.google.co.jp/citations?hl=en&user=BTId__wAAAAJ" target="_blank">Chollakorn Nimpattanavong</a>
+ * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=2CFoP9cAAAAJ" target="_blank">Pittawat Taveekitworachai</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
 ### Sponsors：
 <a href="https://www.nvidia.com/en-us/training/"><img alt="Qries" src="../dli.png" height="150"></a>
 <a href="http://en.ritsumei.ac.jp/ise/"><img alt="Qries" src="../ise.gif" height="150"></a>
