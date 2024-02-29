@@ -33,7 +33,7 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/LWve
  * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
 ### Past Event Reports:
 #### * 09:00-18:00 January 6, 2024 (JST)
-##### Number of participants who obtained a certificate of completion：24
+##### Number of participants who obtained a certificate of completion：26
 ##### TAs:
 * <a href="https://scholar.google.co.jp/citations?hl=en&user=BTId__wAAAAJ" target="_blank">Chollakorn Nimpattanavong</a>
  * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
