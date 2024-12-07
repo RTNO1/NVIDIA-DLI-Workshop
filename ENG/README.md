@@ -1,12 +1,12 @@
 ## Fundamentals of Deep Learning Workshop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
 ### Date and Time: 
-09:00-18:00 October 28, 2023 (JST)
+09:00-18:00 December 26, 2024 (JST)
 ### Place: 
 Zoom (to be announced to registered participants)
 ### Content: 
-See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLI page</a>. Note that our workshop is free of charge. Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.next.courses.nvidia.com/certificates/29591b570cdb4b8bb0b0ea7259e9ab83" target="_blank">this</a>.)
+See the content of this <a href="https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/" target="_blank">NVIDIA DLI page</a>. Note that our workshop is free of charge. Upon successful completion of the assessment, participants will receive an NVIDIA DLI certificate like <a href="https://learn.nvidia.com/certificates?id=Xp-LqTVASkqKhd4gPk1Xzw" target="_blank">this</a>.)
 
-Lectures and labs will be in English. For Japanese-speaking participants, slides in Japanese will also be provided together with support by Japanese-speaking TAs. In addition to English, some of our TAs speak Thai or Chinese.
+Lectures and labs will be in English. 
 ### Expected Number of Participants: 
 40 (first-come-first-served basis among students with the following qualifications)
 ### Prerequisites: 
@@ -16,15 +16,15 @@ Lectures and labs will be in English. For Japanese-speaking participants, slides
 3. **Required:** are able to participate in the entire workshop
 ### Network Environment and Hardware Requirements: 
 Desktop or laptop computer capable of running the latest version of Chrome or Firefox as well as a network environment able to provide stable access to a GPU-accelerated server, provided by NVIDIA DLI, in the cloud.
-### Free Registration (open until 09:00 AM October 26 (JST), 2023): 
+### Free Registration (open until 09:00 AM December 24 (JST), 2024): 
 Please register on this Microsoft Forms <a href="https://forms.office.com/r/wvU6g4DtmD" target="_blank">page</a>. 
 ### Instructor: 
 <a href="http://www.ice.ci.ritsumei.ac.jp/~ruck/" target="_blank">Ruck Thawonmas</a><img alt="Qries" src="http://www.ice.ci.ritsumei.ac.jp/~ruck/images/17_DeepLearningInstitute_Logo_R1_RBG_University_Ambassador-01.png" height="50"> , <a href="http://en.ritsumei.ac.jp/ise/">College of Information Science and Engineering</a> 
 ### TAs:
- * <a href="https://courses.nvidia.com/certificates/fd117d9bd0ad463fa593d2baafeb08ad/" target="_blank">Chollakorn Nimpattanavong</a>
- * <a href="https://courses.nvidia.com/certificates/f01681fd8fda4cb5aa9c5261f39c0744/" target="_blank">Pittawat Taveekitworachai</a>
- * <a href="https://courses.nvidia.com/certificates/51ba8910113347db9c9aabb98668f934/" target="_blank">Xiao You</a>
- * <a href="https://courses.nvidia.com/certificates/89ae39d63ede471c802c18aa96423b4f/" target="_blank">Ryosuke Hasegawa</a>
+ * <a href="https://scholar.google.com/citations?user=KzCoKpcAAAAJ&hl=en" target="_blank">Fajar Dewantoro Mury</a>
+ * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
+ * <a href="https://learn.nvidia.com/certificates?id=132c85b31e184a27b1391de619b58658" target="_blank">Yi Xia</a>
 ### Past Event Reports:
 #### * 09:00-18:00 October 28, 2023 (JST)
 ##### Number of participants who obtained a certificate of completion：54
