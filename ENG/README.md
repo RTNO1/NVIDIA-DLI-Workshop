@@ -26,6 +26,13 @@ Please register on this Microsoft Forms <a href="https://forms.office.com/r/wvU6
  * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
  * <a href="https://learn.nvidia.com/certificates?id=132c85b31e184a27b1391de619b58658" target="_blank">Yi Xia</a>
 ### Past Event Reports:
+#### * 09:00-18:00 December 26, 2024 (JST)
+##### Number of participants who obtained a certificate of completion：35
+##### TAs:
+ * <a href="https://scholar.google.com/citations?user=KzCoKpcAAAAJ&hl=en" target="_blank">Fajar Dewantoro Mury</a>
+ * <a href="https://scholar.google.com/citations?hl=en&user=uXqYNTMAAAAJ" target="_blank">Ibrahim Khan</a>
+ * <a href="https://scholar.google.co.jp/citations?hl=en&user=EoA_9iYAAAAJ" target="_blank">Van Thai Nguyen</a>
+ * <a href="https://learn.nvidia.com/certificates?id=132c85b31e184a27b1391de619b58658" target="_blank">Yi Xia</a>
 #### * 09:00-18:00 October 28, 2023 (JST)
 ##### Number of participants who obtained a certificate of completion：54
 ##### TAs:
