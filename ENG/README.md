@@ -1,5 +1,5 @@
 ## Fundamentals of Deep Learning Workshop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
-### Date and Time: 
+### Date and Time: (TBD; The information below is for reference.)
 09:00-18:00 December 26, 2024 (JST)
 ### Place: 
 Zoom (to be announced to registered participants)
