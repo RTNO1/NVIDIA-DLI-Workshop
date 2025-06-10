@@ -1,5 +1,5 @@
 ## Building Transformer-Based Natural Language Processing Applications Workshop, an NVIDIA Deep Learning Institute（DLI）Certified Course 
-### Date and Time: 
+### Date and Time: (TBD; The information below is for reference.)
 09:00-18:00 January 6, 2024 (JST)
 ### Place: 
 Zoom (to be announced to accepted participants)
